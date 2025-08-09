@@ -1,4 +1,4 @@
-# 23_RebootBMSITM – NeoPredict
+# 23_RebootBMSITM 
 # NeoPredict – AI-Driven Preconception Health Risk Prediction
 **Tomorrow’s wellness starts today**  
 
