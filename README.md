@@ -28,6 +28,13 @@ This project is developed as part of **Reboot Hackathon – BMSITM 2025**.
 - **Data Visualization**: Matplotlib, Plotly  
 - **Version Control**: Git & GitHub  
 
+## Folder Structure
+23_RebootBMSITM/
+- ├── data/
+- │   └── SampleDataSet.txt
+- ├── requirements.txt
+- └── README.md
+
 ## Team Members
 - **Dr. Aparna K** – Team Leader
 - **Dr. P Ganesh**
